@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cacaj&label=Profile%20views&color=0e75b6&style=flat" alt="cacaj" /> </p>
 
-- 📝 I regularly write articles on [https://cacaj.site](https://cacaj.site)
+- 📝 I regularly write articles on [https://rinascacaj.com](https://rinascacaj.com)
 
 - 💬 Ask me about **html, css, javascript**
 
