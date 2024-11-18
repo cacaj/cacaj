@@ -1,5 +1,4 @@
-![Header](./github-header-im![RC22](https://github.com/user-attachments/assets/44b3485b-d405-4cc5-8461-98ac7f4eb21d)
-age.png)
+![Header](./44b3485b-d405-4cc5-8461-98ac7f4eb21d)
 <h1 align="center">Hi 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cacaj&label=Profile%20views&color=0e75b6&style=flat" alt="cacaj" /> </p>
